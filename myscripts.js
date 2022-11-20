@@ -1,6 +1,6 @@
 let MyName = "Leonardo";
 let MyAge = 20;
-let MyMultipliedAge = Age * 7;
+let MyMultipliedAge = MyAge * 7;
 
 console.log(MyName, MyAge, MyMultipliedAge);
 
